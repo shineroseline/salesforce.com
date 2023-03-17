@@ -1,0 +1,61 @@
+.corporate-logo{
+    width: 80px;
+    height: 50px;
+}
+.nav-link img{
+    width: 30px;
+    height: 30px; 
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding: 2px; */
+}
+
+.box img:hover{
+    display:flex;
+    border-radius: 100%; 
+    background-color: rgb(197, 197, 247);
+    
+    
+}
+
+/* .nav-item a:hover{
+    color:rgb(22, 22, 249);
+} */
+.ul li a:hover{
+    background-color: rgba(3, 15, 4, 0.769);
+}
+
+h1{
+    font-size: 4rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-body a:hover{
+    color:rgb(97, 97, 237)
+}
+
+.card-body h5:hover{
+    color:rgb(97, 97, 237)
+}
+
+.sect-6-div1:hover{
+background-color: rgb(2, 17, 40);
+}
+.footer-list1 a{
+    text-decoration: none;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+.footer-list1 h5{
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+.footer-para{
+    font-size: 12px;   
+}
+.footer-links{
+    font-size: 12px;
+}
